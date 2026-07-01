@@ -1,0 +1,19 @@
+What is Machine Learning?
+
+Machine Learning is a technique that enables a computer to learn on its own without being explicitly programmed with every rule. It works much like a young child who gradually learns about the world by observing and gaining experience.
+According to the images, we can understand it through two approaches:
+
+1. Traditional Programming
+
+When we want a computer to perform a straightforward task, such as adding two numbers (2 + 2 = 4), we write clear rules and step-by-step instructions. The computer simply follows those instructions to produce the correct result.
+
+2. Machine Learning
+
+When a task is too complex to describe with fixed rules, we do not tell the computer exactly what to do. Instead, we provide it with a large amount of data (examples). By analyzing this data, the computer identifies patterns on its own and learns how to perform similar tasks in the future. That is why Machine Learning is often described as a way of creating "learning machines."
+
+Example:
+
+Suppose we want to teach a computer the difference between a cat and a dog.
+Using the traditional approach, we would have to write every possible rule in the program, such as the size of the ears, the presence of whiskers, the length of the tail and many other characteristics. Since there are millions of cats and dogs with different appearances writing rules for every case would be nearly impossible.
+
+Using Machine Learning: Instead of writing rules, we show the computer thousands of labeled images of cats and dogs. By studying these examples, the computer automatically learns the patterns that distinguish a cat from a dog. Later, when it is shown a completely new image, it can identify whether it is a cat or a dog based on what it has learned.
