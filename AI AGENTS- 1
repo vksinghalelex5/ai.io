@@ -1,0 +1,79 @@
+Agentic AI or AI Agent Generative AI is used in chatbots. The more advanced technology is AI Agent. Every company would like to be an AI based company. AI agent is used everywhere. Chatgpt was made using LLM. LLM is part of Generative AI. After LLM, AI workflows came and then AI agent. Gemini, Chatgpt,etc all are the types of large language models. Input is given to LLM and output is given by LLM. Prompt is given to large language model and it gives us output. The limitation of LLM is that they have limited database. LLM can not access calendar. It is the limitation of LLM. 
+AI workflows: There must be someone to manage my workflows. AI can access many tools of Google. AI workflow is one step ahead. If LLM has not calander tool, it will not give any input. 
+Software: It is the entire restaurant where you have gone to eat. 
+User (You): You are sitting at the table and want to eat. 
+Kitchen: Where the food is being prepared (meaning the main database/system). 
+API: It is the waiter of the restaurant. You gave the order to the waiter, the waiter went to the kitchen (to fetch the data), and brought the food back to you. The waiter acted like an "API" between you and the kitchen. In AI workflows, the decision maker is human. AI agent will work on behalf of us. 
+Task: Create posts for Instagram and Linkedn based on news articles, and publish them everyday at 8 PM. 
+Step 1: AI agent will compile the links, will summarize the articles and will write posts. 
+Before Step 1 , AI agent will do reasoning. For reasoning, it will use tools like perplexity, chatgpt, Claude, etc.
+Thus, first it will perform reasoning and then do action. It is thus called React. 
+Manus was first AI agent created by china. It performs iterations automatically. 
+In second step, it will summarize articles and do the posts.
+ In third step, it will write the posts and will do iterations. 
+The difference between AI workflow and AI agent is that in AI workflow, the iterations are performed by human whereas in AI agent, the iterations are performed by agent. 
+In third step , it will post. Manus AI agent has completed all the tasks. There are two types of AI agent I.e.,  Single AI agent and Multi AI agent. In single AI agent, only one LLM model is used, whereas in multiple AI agent, more than one LLM models are used.
+ In multi AI agent, different LLMs can perform different tasks or same tasks. Patterns of agent:  
+1.	Sequential Pattern:  Example: AI Powered Document Processing.
+ Agent 1: Text extraction.
+
+ Agent2:Text summarization  
+
+Agent 3: Action item extraction.
+ Agent 4: Saving to Database Task is performed in sequence.
+
+2.	Hierarchical  Pattern:  Example: Writing a report for business decision making  Manager AI agent:  The manager AI agent is the manager of all sub agents and he will manage all the sub agents. There are 4 sub agents i.e., Sub Agent 1, Subagent 2, Sub Agent 3 and Sub Agent 4.  
+
+The Sub agent 1 will monitor market trends, the Sub agent 2 will analyses customer sentiment,  the Sub agent 3 will track internal performance metrics and all Sub agent will send their report to manager AI agent and Manager AI agent will tell Sub Agent 4 to aggregate insights and makes the decision final.
+
+3. Hybrid Pattern:  Comprises both Sequential and Hierarchical Pattern. Example: An autonomous vehicle
+ 4. Asynchronous Multi Agent System:  Example: AI Powered cyber security threat detection. There are three agents here:  
+1.  Agent 1: It will monitor network traffic. 
+ 2. Agent 2: It will monitor suspicious patterns. 
+3. Agent 3: Randomly sampling/testing use cases
+Types of AI agents: 
+ 1. Simple Reflex agent 
+2. Model based reflex agent 
+3. Goal-based agent 
+4. Utility-based agent
+ 5. Learning Agent
+Simple Reflex Agent:  Thus agent will work on the basis of current situation. If it gets condition, it will take action otherwise no memory and no learning.  
+Sensor-----Condition- Action Rule -----Actuator .
+Example: A vacuum robot that turns left when it hits a wall. Robot sees “ wall” and turns left.
+ No memory or learning bubble.
+ Think of it like: If thus happens----- do that.
+ 2. Model-Based Reflex Agent:  This agent will use current plus previous knowledge (internal state) . It is bit intelligent and also uses  memory. Sensor- Update Internal State- Condition-Action Rule- Actuator.
+ Example : A smart vacuum remembers room layout and adjusts it’s route. Agent sees obstacle.
+Checks memory in map. 
+Decides path.
+ Now it has some memory to improve its actions.
+3. Goal l-Based Agent: 
+This agent is goal oriented. It thinks before every action whether this action will proceed me towards my goal. 
+Ex: Sensor- Internal State+Goal – Search/Planning- Action. 
+Example: An AI agent given the goal “ book a flight to Goa under 50000” Task : “ Book flight under 5000” Path A: INR 6000 Path B : INR 4800 It reasons before acting.
+4. 
+Utility-Based Agent:  This agent doesn’t get stopped till goal but it calculates the success level of every possible outcome.  
+Sensor – Internal State+ Goal+ Utility Function- ( Best Action) – ( Actuator). Example: It chooses the flight with best timing, price and airline rating. Options A, B, C with scores. Agent chooses highest Utility. It ranks and chooses the most useful option.
+5. Learning Agent: This agent learns from its experiences and it improves it with time. It comprises of one learning component.
+ Example: Agent fine-tuned with feedback. Or an AI Assistant that gets better at booking trips for you. 
+Brain icon + memory book + graph showing improvement.
+ Learns from feedback.
+ It evolves with experience.
+6. Coding AI agent:  AI agent can help developers by:  
+Understanding what you want to build. Breaking the tasks into steps. 
+Writing Code.
+Testing it.
+ Debugging errors-automatically.  Example: Build a weather app.
+ Agent generates frontend, backend, API call and deploys it. 
+Text Prompt- Agent writes HTML+CSS+JS.
+
+E- commerce & Product research:  Find me a smart watch under Rs 3000 with great reviews and 7-day battery.
+ 7. Healthcare Assistant Agent:  In Healthcare, agents are helping.  Doctors summarize patient histories . Suggest diagnoses based on symptoms .Monitor patent health data. They are like AI nurses or assistants, improving efficiency without replacing humans.
+ Patient record: AI Agent – Diagnoses suggestion plus report summary.  
+Label: Your AI Co-Doctor. 
+Request : Please generate an image where a girl is reading a book and her pose is the same as the boy in the image example.jpg,  then please describe the new image with your voice. 
+1. Post Determination 
+ 2. Post-to-image.
+3. Image-to-text .
+4. Text-to-Speech
+
