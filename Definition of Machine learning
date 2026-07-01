@@ -1,0 +1,26 @@
+
+Definition According to Tom Mitchell: 
+
+The famous machine learning researcher Tom Mitchell explained Machine Learning in a very simple way: 
+
+"A computer program is said to learn from experience if its performance at a task improves with experience." 
+
+In simple words, as a machine gets more data and experience, it makes fewer mistakes and becomes better at making decisions. This is similar to how humans learn when we practice a task repeatedly, we become more skilled at it. Likewise, a machine becomes smarter by analyzing data and identifying patterns. 
+
+Simple Example: Identifying Medical Reports 
+
+Let's understand this with the example shown in the image. 
+
+Step 1: Providing Experience 
+
+Suppose we show a computer thousands of medical reports. We tell it which reports belong to healthy patients and which belong to patients with a disease. 
+
+Step 2: Machine Learns 
+
+The machine studies these reports repeatedly. It analyzes the data and learns the patterns such as which test values are higher or lower for different diseases. 
+
+Step 3: Making a Decision 
+
+After learning from many examples, when the machine is given a new medical report that it has never seen before, it can predict on its own whether the person is healthy or has a disease without any human assistance. 
+
+Thus, this is the real meaning and power of Machine Learning where a machine learns from data and experience, recognizes patterns, and continuously improves its ability to make accurate decisions.
